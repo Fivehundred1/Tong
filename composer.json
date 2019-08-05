@@ -1,11 +1,11 @@
 {
-    "name": "tong/aliyun_video_oss",
-    "description": "easy aliyun video oss",
+    "name": "TongServer/aliyun-oss",
+    "description": "easy aliyun oss",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "chetong",
+            "name": "Tong",
             "email": "tongserver@sina.com"
         }
     ],
