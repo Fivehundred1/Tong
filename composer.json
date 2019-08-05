@@ -1,0 +1,19 @@
+{
+    "name": "tong/aliyun_video_oss",
+    "description": "easy aliyun video oss",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chetong",
+            "email": "tongserver@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/Hello"
+        }
+    }
+}
